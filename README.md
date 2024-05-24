@@ -1,4 +1,4 @@
 # demo1
 This is my first git repository
 <br>
-author = Bhavishya Chauhan
+author = Bhavishya (PP Savani university)
